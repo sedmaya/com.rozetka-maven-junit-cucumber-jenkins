@@ -1,0 +1,10 @@
+com\rozetka\pages\SignUpPage.class
+com\rozetka\driver\DriverManager$1.class
+com\rozetka\pages\pageUtils\test.class
+com\rozetka\pages\BasePage.class
+com\rozetka\driver\DriverName.class
+com\rozetka\driver\DriverManager.class
+com\rozetka\pages\pageUtils\PagesProvider.class
+com\rozetka\pages\SearchResultsPage.class
+com\rozetka\pages\HomePage.class
+com\rozetka\pages\Iphone12Page.class
