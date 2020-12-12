@@ -1,3 +1,4 @@
+@SmokeTest @NegativeTest
 Feature: Check the Search feature
   As a potential buyer
   I want to have the possibility to get a feedback regarding me search request

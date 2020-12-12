@@ -2,8 +2,8 @@ package com.rozetka.steps;
 
 import io.cucumber.java.en.Then;
 
-import static com.rozetka.pages.pageUtils.PagesProvider.*;
-import static org.assertj.core.api.Assertions.*;
+import static com.rozetka.pages.pageUtils.PagesProvider.getSearchResultsPage;
+import static org.assertj.core.api.Assertions.assertThat;
 
 public class NoSearchResultsSteps {
 

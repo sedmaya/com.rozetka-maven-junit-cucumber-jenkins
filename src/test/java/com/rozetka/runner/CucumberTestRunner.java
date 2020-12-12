@@ -9,11 +9,11 @@ import org.junit.runner.RunWith;
         plugin = {"pretty", "html:target/rozetka-reports",
                 "json:target/rozetka-reports/RozetkaTests.json",
                 "junit:target/rozetka-reports/RozetkaTests.xml"},
-        monochrome = true,
-        glue = {"com.rozetka"},
-        features = "classpath:com.rozetka.features"
+        monochrome = true
+        ,features = "classpath:com.rozetka.features"
+        ,glue = {"com.rozetka"}
+        ,tags = {"@NegativeTest"}
 )
-
 public class CucumberTestRunner {
 
 }

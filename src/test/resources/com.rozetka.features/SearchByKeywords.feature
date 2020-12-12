@@ -1,3 +1,4 @@
+@SmokeTest @SearchFeatureTest
 Feature: Check the search feature
   As a potential buyer
   I want to have the possibility to get appropriate search results

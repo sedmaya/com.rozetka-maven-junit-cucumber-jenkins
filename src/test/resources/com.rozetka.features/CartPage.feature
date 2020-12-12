@@ -1,3 +1,4 @@
+@SmokeTest @AddToCartFeatureTest
 Feature: Check the cart's feature
   As a potential buyer
   I want to have the possibility to review before checkout the item added to the cart

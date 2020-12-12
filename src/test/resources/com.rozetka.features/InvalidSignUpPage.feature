@@ -1,3 +1,4 @@
+@NegativeTest @SmokeTest @SignUpFeatureTest
 Feature: Check the Sign Up feature
   As a unregistered user
   I want to get hints regarding invalid/no data in the Sign Up form's fields

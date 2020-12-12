@@ -1,3 +1,4 @@
+@SmokeTest @SearchFeatureTest
 Feature: Check Sorting feature
   As a potential buyer
   I want to be able to sort my search results

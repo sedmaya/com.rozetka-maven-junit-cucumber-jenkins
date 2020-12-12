@@ -1,3 +1,4 @@
+@ExtendedTest
 Feature: Check the internationalization feature
   As a buyer with the patriotic mind
   I want to have the possibility to switch the content's language
